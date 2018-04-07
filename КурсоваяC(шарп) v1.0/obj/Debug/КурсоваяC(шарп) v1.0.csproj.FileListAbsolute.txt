@@ -1,0 +1,44 @@
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe.config
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.pdb
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csprojResolveAssemblyReference.cache
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form1.resources
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Properties.Resources.resources
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.GenerateResource.Cache
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.CoreCompileInputs.cache
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.exe
+c:\users\валера\source\repos\КурсоваяC(шарп) v1.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.pdb
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe.config
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.exe
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.pdb
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.pdb
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csprojResolveAssemblyReference.cache
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form1.resources
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Properties.Resources.resources
+D:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.GenerateResource.Cache
+F:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe.config
+F:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.exe
+F:\Курсовая\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.pdb
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe.config
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.pdb
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form1.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Properties.Resources.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.GenerateResource.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.exe
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v2.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.pdb
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe.config
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.exe
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\bin\Debug\КурсоваяC(шарп) v1.0.pdb
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form1.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form2.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Form3.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC_шарп__v1._0.Properties.Resources.resources
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.GenerateResource.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.exe
+C:\Users\Валера\Desktop\КурсоваяC(шарп) v4.0\КурсоваяC(шарп) v1.0\obj\Debug\КурсоваяC(шарп) v1.0.pdb
